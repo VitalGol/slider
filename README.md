@@ -1,1 +1,1 @@
-# slider
+# slider Images With HTML, CSS & JS
